@@ -26,19 +26,19 @@ Additionally, the system includes a GSM module to send SMS notifications to care
 
 **ESP32 Microcontroller**
 
-**RTC Module (DS1307)**Real-time clock for scheduling
+**RTC Module (DS1307)** Real-time clock for scheduling
 
-**IR Sensors (x4) **Detecting pill removal from compartments
+**IR Sensors (x4)** Detecting pill removal from compartments
 
-**GSM Module (SIM900A)**SMS notifications to caregivers
+**GSM Module (SIM900A)** SMS notifications to caregivers
 
-****DFPlayer Mini + Speaker **** Audio reminder 
+ DFPlayer Mini + Speaker Audio reminder 
 
 **LM305 Voltage Regulator** For regulating stable supply to DFMini player
 
 **Amplifier** To amplify speaker signals
 
-**Resistor **To control current flow
+ Resistor To control current flow
 
 
 
@@ -122,7 +122,7 @@ Additionally, the GSM module sends SMS notifications in case of missed or repeat
 
 **APPLICATIONS**
 
-1 Home & Elderly Medication Management
+**1 Home & Elderly Medication Management**
 
 This includes both home healthcare and elderly care, where patients manage medicines outside hospitals.
 
@@ -136,7 +136,7 @@ It helps individuals who:
 
 Such systems often use alarms, mobile apps, or smart pill dispensers to improve adherence and reduce missed doses.
 
-2. Hospital & Clinical Medication Monitoring
+**2. Hospital & Clinical Medication Monitoring**
 
 In hospitals and clinics, medication schedules must be strictly followed for multiple patients.
 
@@ -150,7 +150,7 @@ This application supports:
 
 It improves treatment efficiency and ensures patients receive correct doses at correct times.
 
-3. Chronic Disease Management
+**3. Chronic Disease Management**
    
 For patients with long-term conditions like diabetes, blood pressure, asthma, etc.
 
@@ -164,7 +164,7 @@ These systems are useful because:
 
 Some systems also log dosage history so doctors can adjust treatment based on compliance.
 
-4. Remote Caregiver & Family Monitoring
+**4. Remote Caregiver & Family Monitoring**
    
 This focuses on enabling family members or caregivers to remotely ensure patients are taking medicines properly.
 
@@ -178,7 +178,7 @@ Key features include:
 
 It improves trust and safety in home-based healthcare.
 
-6. Smart Healthcare / IoT-Based Systems
+**5. Smart Healthcare / IoT-Based Systems**
 
 This is the advanced integration layer where medication management becomes part of smart healthcare ecosystems.
 
